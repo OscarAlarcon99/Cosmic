@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8229dbce05528e7439f0bf32f9bf0012, type: 3}
+  m_Name: Quest 4 Probiema 1
+  m_EditorClassIdentifier: 
+  fact: "en cosmic sea existe un t\xE9, que ayuda a sanar el cuerpo maltratado y
+    el alma quebrantada, para prepararlo se requieren 2 ramas de liz, 1 rama de zero
+    y 250 mililitros de agua, \xBFcu\xE1ntas tazas de t\xE9 salen de 750 mililitros
+    de agua, 6 ramas de liz y 2 ramas de zero?"
+  answers:
+  - 3
+  - 4
+  - 2
+  trueAnswer: 2
+  answeredWell: 1

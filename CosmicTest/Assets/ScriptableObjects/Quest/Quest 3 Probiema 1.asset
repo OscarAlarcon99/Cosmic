@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8229dbce05528e7439f0bf32f9bf0012, type: 3}
+  m_Name: Quest 3 Probiema 1
+  m_EditorClassIdentifier: 
+  fact: "3 la posion m\xE1s grande de vida en el juego restaura la vida entera del
+    personaje esta pocion requiere de 500 mililitros de agua y 5000 infusiones de
+    vida, si por cada mililitro de esencia azul hay 5 infusiones de vida, \xBFcu\xE1ntos
+    litros de esencia azul se requieren para esta pocion??"
+  answers:
+  - 100 mililitros
+  - 1 litro
+  - 2.500 mililitros
+  trueAnswer: 1
+  answeredWell: 1
