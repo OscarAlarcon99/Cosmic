@@ -35,7 +35,7 @@ public class Item
         {
             buffs[i] = new ItemBuff(item.buffs[i].min, item.buffs[i].max)
             {
-                attributes = item.buffs[i].attributes
+                attribute = item.buffs[i].attribute
             };
         }
     }
@@ -44,7 +44,7 @@ public class Item
 [System.Serializable]
 public class ItemBuff
 {
-    public Attributes attributes;
+    public Attributes attribute;
     public int value;
     public int max;
     public int min;

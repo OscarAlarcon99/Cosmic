@@ -15,4 +15,14 @@ MonoBehaviour:
   dataBase: {fileID: 11400000, guid: 552504954d0ed86469b3e247d141bbe0, type: 2}
   savePath: /InventoryData
   container:
-    items: []
+    items:
+    - item:
+        name: PotionEscenciaAzulSO
+        id: 0
+        buffs:
+        - attribute: 2
+          value: 5
+          max: 6
+          min: 4
+      amount: 1
+      ID: 0
